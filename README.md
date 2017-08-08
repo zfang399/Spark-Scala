@@ -17,6 +17,10 @@ Algorithms
     Pros: It only has to loop through the whole dataset once. Efficient for large datasets.
     Cons: It is more complicated to implement.
     
+### 3. Decision Tree<br />
+    A common algorithm to classify records
+    Main idea: use a tree structure to classfy the record step by step
+    
 Applications
 -------------------------------
 ### 1. Email Classifier<br />
