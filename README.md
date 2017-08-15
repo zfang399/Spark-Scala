@@ -21,6 +21,16 @@ Algorithms
     A common algorithm to classify records
     Main idea: use a tree structure to classfy the record step by step
     
+### 4. ALS(Alternating Least Square)<br />
+    An algorithm of collaborative filtering, frequently used for generating recommendations.
+    
+### 5. K-means<br />
+    A popular algorithm to classify objects into K clusters
+    Main-idea: choose K points as the center of the K clusters, allocate all points to the K clusters,
+    recalculate the center in each clusters, and repeat the process until there is almost no movement of
+    the centers.
+    
+    
 Applications
 -------------------------------
 ### 1. Email Classifier<br />
