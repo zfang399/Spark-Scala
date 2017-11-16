@@ -24,7 +24,7 @@ Algorithms
     Main idea: use a structure called frequent pattern tree (FP-tree) to store the records, and retrieve the 
     frequent itemset through the tree.
     Pros: It only has to loop through the whole dataset once. Efficient for large datasets.
-    Cons: It is more complicated to implement.
+    Cons: It is more complicated to implement. 
     
 ### 3. Decision Tree<br />
     A common algorithm to classify records
